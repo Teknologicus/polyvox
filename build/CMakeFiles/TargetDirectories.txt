@@ -1,0 +1,4 @@
+C:/Users/Jos/Documents/GitHub/polyvox/build/library/PolyVoxUtil/CMakeFiles/PolyVoxUtil.dir
+C:/Users/Jos/Documents/GitHub/polyvox/build/library/PolyVoxUtil/CMakeFiles/ALL_BUILD.dir
+C:/Users/Jos/Documents/GitHub/polyvox/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Jos/Documents/GitHub/polyvox/build/library/PolyVoxCore/CMakeFiles/PolyVoxCore.dir

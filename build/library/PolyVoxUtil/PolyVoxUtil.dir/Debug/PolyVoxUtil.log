@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Users/Jos/Documents/GitHub/polyvox/library/PolyVoxUtil/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\Jos\Documents\GitHub\polyvox\build\library\PolyVoxUtil\CMakeFiles\generate.stamp is up-to-date.
+  Dummy.cpp
+  PolyVoxUtil.vcxproj -> C:\Users\Jos\Documents\GitHub\polyvox\build\library\PolyVoxUtil\Debug\PolyVoxUtil.lib

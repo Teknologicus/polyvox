@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Jos\Documents\GitHub\polyvox\build\CMakeFiles\f2ee89294050a8fc4f4d72bb5d0fc6d9\PACKAGE_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{72A98227-9133-324C-B8C1-8C7E0A1B414C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

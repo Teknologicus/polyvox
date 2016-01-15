@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Jos\Documents\GitHub\polyvox\library\PolyVoxUtil\source\Dummy.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Jos\Documents\GitHub\polyvox\library\PolyVoxUtil\include\PolyVoxUtil\Serialization.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Jos\Documents\GitHub\polyvox\library\PolyVoxUtil\include\PolyVoxUtil\Serialization.inl">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Jos\Documents\GitHub\polyvox\library\PolyVoxUtil\include\PolyVoxUtil\VolumeChangeTracker.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Jos\Documents\GitHub\polyvox\library\PolyVoxUtil\include\PolyVoxUtil\VolumeChangeTracker.inl">
+      <Filter>Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Jos\Documents\GitHub\polyvox\library\PolyVoxUtil\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Sources">
+      <UniqueIdentifier>{2A06E917-2F98-3BE4-9B12-E21D19B85500}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{31A0BE74-88E1-3C86-B35F-524CEA79A514}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

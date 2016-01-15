@@ -1,0 +1,15 @@
+﻿  Building Custom Rule C:/Users/Jos/Documents/GitHub/polyvox/library/PolyVoxCore/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\Jos\Documents\GitHub\polyvox\build\library\PolyVoxCore\CMakeFiles\generate.stamp is up-to-date.
+  ArraySizes.cpp
+  AStarPathfinder.cpp
+  Log.cpp
+  MeshDecimator.cpp
+  Region.cpp
+  SimpleInterface.cpp
+  VertexTypes.cpp
+  MarchingCubesTables.cpp
+  RandomUnitVectors.cpp
+  RandomVectors.cpp
+  Utility.cpp
+  Generating Code...
+  PolyVoxCore.vcxproj -> C:\Users\Jos\Documents\GitHub\polyvox\build\library\PolyVoxCore\Debug\PolyVoxCore.lib
